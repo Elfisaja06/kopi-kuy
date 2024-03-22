@@ -1,0 +1,108 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRns-QmtzN3uTE72ywtm1dtVxTLNF1HsoAUMw&usqp=CAU",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Coffee Arabica Honey Gayo",
+            "size": "1000 Gram",
+            "harga": "264.600",
+            "link": "https://shopee.co.id/product/16672312/16293968632?is_from_login=true",
+            "foto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQSce_DM2C8U1kIPLNcpOEWqxBfCyOC5vd0oFmhE1Dgf4edHgyVzFFWZYjZokuPh-oZZRfcItdrK4hXk3nTZN3bp9QGjO0ynMWMkR6s2hpGkEatlmVX_NZ8w&usqp=CAE"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Kopi Robusta Toraja",
+            "size": "1000 Gram",
+            "harga": "120.000",
+            "link": "https://www.lazada.co.id/products/pinto-kopi-robusta-toraja-1kg-i859916451-s1247482648.html?from_gmc=1&fl_tag=1",
+            "foto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-Ssq1cvvSMWe8MK4QHzSIQnIhywKKL_FjCAGFvIb9P5j-qCXouiT8IiOLw6k6aU0sZiBnARMJ3j8cOUlLfi-qw0qSM0nhd5r5YLG-TVZJzwN4S8YO1_170g&usqp=CAE"
+        },
+        {
+            "nama": "Kopi Robusta Temanggung",
+            "size": "500 Gram",
+            "harga": "75.000",
+            "link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTGWQYciR8IvUI4Vc4JDmAooE2ExNX66snJP0Yhd28otm1uFX4sIR7s663GQVcJZGdff8ATtElmIuQP12C2lK7V9RE3j3CqVGyR-LCh1EqY&usqp=CAE",
+            "foto": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTGWQYciR8IvUI4Vc4JDmAooE2ExNX66snJP0Yhd28otm1uFX4sIR7s663GQVcJZGdff8ATtElmIuQP12C2lK7V9RE3j3CqVGyR-LCh1EqY&usqp=CAEg"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "All Juice",
+            "size": "1000 ml",
+            "harga": "249.000",
+            "link": "https://www.blibli.com/p/paket-jus-kesehatan-cleanse-gabungan-juice-2-hari-aneka-rasa-banyak-varian-juice-cold-pressed-all-variant-best-seller-juice-diet-kesehatan/ps--SMH-70020-00070",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/99/MTA-119915081/brd-44261_paket-jus-kesehatan-cleanse-gabungan-juice-2-hari-aneka-rasa-banyak-varian-juice-cold-pressed-all-variant-best-seller-juice-diet-kesehatan_full05-884942d2.jpg"
+        },
+        {
+            "nama": "Sweet Tea Cold",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.blibli.com/p/es-teh-manis/is--BAP-70542-00027-00001?pickupPointCode=PP-3482168&srsltid=AfmBOorA3axDeHzWcASS7ZyFHSEAAaaxdhEV7rk8oWG9VNFP0_s8s2Jz2lA",
+            "foto": "https://asset-a.grid.id/crop/1x0:654x392/700x465/photo/2019/09/11/756251270.jpg"
+        }
+    ],
+    "makanan": [
+        {
+            "nama": "Fried Rice Seafood",
+            "size": "Medium",
+            "harga": "80.000",
+            "link": "https://shopee.co.id/product/310284931/22125782847",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTv5GCRott-zk0UapCYqNEHUmcxZC6_zJPNQ&usqp=CAU"
+        },
+        {
+            "nama": "Mie Bangladesh",
+            "size": "Medium",
+            "harga": "30.000",
+            "link": "",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Wi1OBPcS3FPP649wR4Lb7iyjiLimdR5aBg&usqp=CAU"
+        },
+        {
+            "nama": "Kentang Goreng",
+            "size": "Medium",
+            "harga": "34.000",
+            "link": "https://shopee.co.id/product/24185265/1158179043",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFrGgoNGMFapaUsnOLEb7sV4v4k_LhnwSVA&usqp=CAU"
+        }
+    ]
+}
